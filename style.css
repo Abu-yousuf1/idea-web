@@ -1,0 +1,41 @@
+
+body{
+    background-color: #F3F1FF;
+  
+}
+main{
+    border-radius: 5px;
+    background-color: #FFFFFF;
+    width: 870px;
+}
+footer{
+    background-color: #FFFFFF;
+    width: 870px;
+    border-radius: 5px;
+}
+.footer-row{
+    width: 253px;
+    height: 270px;
+    border: none;
+}
+.card-footer1 img {
+    width: 18px;
+    height: 18px;
+}
+.card-footer1{
+    display: inline;
+}
+.footer-bg{
+    border-radius: 15px;
+    background-color: #FFE4E8;
+    color:  #FF4A60;
+    ;
+}
+.card-footer{
+    border: none;
+    background-color:  #FFFFFF;
+    ;
+}
+.card{
+    border: none;
+}
